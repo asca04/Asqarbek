@@ -1,11 +1,12 @@
 ### Hi 🖐
 
-I'm Asqarbek from Uzbekistan
+I'm Asqarbek. I'm python devoloper
+
+My skils
 
 -Rest Framework
 -Telegram bot
 -Database
+-docker
+-docker compose
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asca04&theme=dark&show_icons=true)
